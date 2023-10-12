@@ -59,9 +59,7 @@
 |12| hours.per.week |   int64   |  Continous  |   Number of hours per week   |
 |13| native.country |   object  |   Discrete  |   Native country of person   |
 |14|     income     |   object  |   Discrete  |   Income category of person  |
-![image](https://github.com/KrishnaSusanth/Low-income-group-prediction/assets/124019854/e35db409-c9be-4576-a934-656a304ba85f)
 
-![image](https://github.com/KrishnaSusanth/Low-income-group-prediction/assets/124019854/98f633d9-5484-4dbf-8f40-41ab69c093df)
 
 - A hyperparameter tuned random forest classifier gives the highest accuracy score of 92.77 and f1 score of 93.08.
 
